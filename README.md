@@ -12,3 +12,6 @@ react全栈丛书学习代码
 	*part3 基于webpack进行开发
 	
 		*2.2.5 使用plugin
+* 第三章 初识React
+
+	*part3 React+webpack开发环境
